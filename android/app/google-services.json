@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "504775670267",
+    "project_id": "universal-science-academ-d9d6a",
+    "storage_bucket": "universal-science-academ-d9d6a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504775670267:android:3ee349c462fd55b539f35e",
+        "android_client_info": {
+          "package_name": "com.example.universal_science_academy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8k5xT5yb6giXAW0eAZxiLmtRTExausyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
